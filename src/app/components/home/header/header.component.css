@@ -1,0 +1,130 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 1.5rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .header--logo {
+  -webkit-box-flex: .05;
+      -ms-flex: .05;
+          flex: .05;
+}
+
+.header .header--logo img {
+  width: 8rem;
+  height: 4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.header .header--form {
+  -webkit-box-flex: .5;
+      -ms-flex: .5;
+          flex: .5;
+  width: 100%;
+  position: relative;
+}
+
+.header .header--form input {
+  height: 4.5rem;
+  border: 1px solid #eee;
+  background-color: #eee;
+  width: 90%;
+  border-radius: 50px;
+  padding-left: 60px;
+  font-size: 1.7rem;
+}
+
+.header .header--form input:hover {
+  border: 1px solid #ccc;
+}
+
+.header .header--form .header--form-positionLeft {
+  position: absolute;
+  left: 2rem;
+  width: 2.3rem;
+  top: 22%;
+  opacity: .5;
+}
+
+.header .header--form .header--form-positionRight {
+  position: absolute;
+  right: 4rem;
+  width: 2.7rem;
+  top: 16%;
+  opacity: .5;
+}
+
+.header .header--nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: .45;
+      -ms-flex: .45;
+          flex: .45;
+  width: 100%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .header--nav .header--nav-div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-flex: .5;
+      -ms-flex: .5;
+          flex: .5;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .header--nav .header--nav-div a {
+  color: #000;
+  opacity: .5;
+  font-weight: 600;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.header .header--nav .header--nav-div .header--nav-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .header--nav .header--nav-div .header--nav-flex p {
+  margin-top: 1.4rem;
+  font-weight: bold;
+  color: #000;
+  opacity: .5;
+}
+
+.header .header--nav .header--nav-div .header--nav-flex p a {
+  color: #000;
+  opacity: .5;
+  text-decoration: underline;
+}
+
+.header .header--nav .header--nav-divider {
+  border: 1px solid #ccc;
+  height: 2.5rem;
+}
+/*# sourceMappingURL=header.component.css.map */

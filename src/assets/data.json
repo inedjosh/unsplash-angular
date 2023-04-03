@@ -1,0 +1,245 @@
+
+[
+  {
+  "name": "editorial",
+   "hero": {
+        "img": "https://images.unsplash.com/photo-1679775912570-202aa997b326?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "title": "Unsplash",
+        "body": "The internet’s source for visuals. Powred by creators everywhere."
+      },
+      "images":[
+      {
+        "author": "John Doe",
+        "url": "https://images.unsplash.com/photo-1679978677453-9452668cb867?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://images.unsplash.com/photo-1679936167452-18a6119f4006?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://images.unsplash.com/photo-1679542501404-5f994a2ecb4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://images.unsplash.com/photo-1679499067430-106da3ba663a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1679506391790-e76e47706bc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://images.unsplash.com/photo-1679428997403-c75e1c148b28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE5fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      }
+      ]
+},
+ {
+      "name": "Wallpapers",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1680055199554-a39e82ebc6a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Wallpapers",
+        "body": "From epic drone shots to inspiring moments in nature — submit your best desktop and mobile backgrounds."
+      },
+       "images":[
+      {
+        "author": "John Doe",
+        "url": "https://images.unsplash.com/photo-1679978677453-9452668cb867?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://images.unsplash.com/photo-1679715504051-e218e6949815?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://images.unsplash.com/photo-1679882779946-240701eeb54f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://images.unsplash.com/photo-1679934370702-fea767143fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1678915627649-c79691739372?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://images.unsplash.com/photo-1679589102491-bc489d798a5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      }
+      ]
+  },
+ {
+      "name": "3D Renders",
+      "hero": {
+        "img": "https://plus.unsplash.com/premium_photo-1679747881859-e49be22a6474?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8Q0R3dXdYSkFiRXd8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60",
+        "title": "3D Renders",
+        "body": "The Unsplash community continues to push the boundaries of creativity through 3D Renders. From abstract worlds to photo-realistic interiors, this category celebrates exciting 3-dimensional images designed in the software of your choice and rendered into JPEG images."
+      },
+        "images":[
+      {
+        "author": "John Doe",
+        "url": "https://plus.unsplash.com/premium_photo-1679927964609-86f7ad420b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Q0R3dXdYSkFiRXd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://plus.unsplash.com/premium_photo-1679743065833-717f5d373d15?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8Q0R3dXdYSkFiRXd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://plus.unsplash.com/premium_photo-1679486070749-312669bb23b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDExfENEd3V3WEpBYkV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://plus.unsplash.com/premium_photo-1679491310437-3b582d061f55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8Q0R3dXdYSkFiRXd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1679768041002-eae8f0e60094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fENEd3V3WEpBYkV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://plus.unsplash.com/premium_photo-1679736181128-ac8e129dd99d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyfENEd3V3WEpBYkV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+
+      }
+      ]
+
+  },
+   {
+      "name": "Nature",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1679936167452-18a6119f4006?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60",
+        "title": "Nature",
+        "body": "Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard."
+      },
+         "images":[
+       {
+        "author": "John Doe",
+        "url": "https://images.unsplash.com/photo-1679978677453-9452668cb867?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://images.unsplash.com/photo-1679936167452-18a6119f4006?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://images.unsplash.com/photo-1679542501404-5f994a2ecb4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://images.unsplash.com/photo-1679499067430-106da3ba663a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1679506391790-e76e47706bc2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://images.unsplash.com/photo-1679428997403-c75e1c148b28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE5fDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+
+      }
+      ]
+  },
+
+    {
+      "name": "Street Photgraphy",
+      "hero": {
+        "img":"https://images.unsplash.com/photo-1679687209792-7199bf448377?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60",
+          "body": "When the streets around you become your canvas, what can you discover? From quiet passages in charming towns to the hustle and bustle of larger cities — this category examines street photography in every form.",
+        "title": "Street Photgraphy"
+
+      },
+         "images":[
+      {
+        "author": "John Doe",
+        "url": "https://images.unsplash.com/photo-1679687209792-7199bf448377?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://images.unsplash.com/photo-1679882428282-78da16ccecf2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://images.unsplash.com/photo-1679663956946-79bbb6bae250?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://images.unsplash.com/photo-1678759728764-ad14cdb7cf3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1679899874449-09f47ea17952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDd8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://images.unsplash.com/photo-1679662826484-6d3e3a97890a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      }
+      ]
+  },
+   {
+      "name": "Experminental",
+      "hero": {
+        "img":"https://images.unsplash.com/photo-1679252433452-b64f0dec522c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60",
+          "body": "Photography has the ability to challenge perspectives and reimagine how we portray the world around us. This category explores unlikely textures, new formats and intriguing subject matter to push creativity forward.",
+        "title": "Experimental"
+
+      },
+          "images":[
+      {
+        "author": "John Doe",
+        "url": "https://images.unsplash.com/photo-1677941931332-3bcf18b0a1ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+
+      },
+      {
+        "author": "John Grace",
+        "url": "https://images.unsplash.com/photo-1675895874527-b5d91ea192f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Amilia Doe",
+        "url": "https://images.unsplash.com/photo-1675895874527-b5d91ea192f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Ceci Johns",
+        "url": "https://images.unsplash.com/photo-1675895874527-b5d91ea192f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      },
+      {
+        "author": "Phil Dammy",
+        "url": "https://images.unsplash.com/photo-1675895874527-b5d91ea192f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "author": "Esthy leo",
+        "url": "https://images.unsplash.com/photo-1675895874527-b5d91ea192f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=60"
+
+      }
+      ]
+  }
+]

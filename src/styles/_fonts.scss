@@ -1,0 +1,4 @@
+@import './colors';
+a, p, span{
+  @include textColor
+}

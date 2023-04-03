@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="login">
+    <h2>Register to Start...</h2>
+
+    <p *ngIf="error" class="login--error">{{ error }}</p>
+
+    <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+      <label for="first-name">Email: </label>
+      <input id="first-name" type="text" formControlName="email" />
+
+      <label for="last-name">Password: </label>
+      <input id="last-name" type="password" formControlName="password" />
+      <button type="submit" mat-raised-button>Register</button>
+    </form>
+    <div class="login--action">
+      <p>have an account? <a routerLink="/login">Login</a></p>
+    </div>
+    <div class="login--google">
+      <button mat-stroked-button (click)="loginWithGoogle()">
+        Signin with google
+      </button>
+    </div>
+  </div>
+</div>

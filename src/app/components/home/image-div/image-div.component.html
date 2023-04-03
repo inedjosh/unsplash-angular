@@ -1,0 +1,19 @@
+<div class="images">
+  <div class="images--hero">
+    <img class="" [src]="data.hero.img" alt="" />
+    <div class="images--hero-overlay"></div>
+    <div class="images--hero-body">
+      <h2>{{ data.name }}</h2>
+      <p>{{ data.hero.body }}</p>
+      <button mat-raised-button>Submit to {{ data.name | uppercase }}</button>
+    </div>
+  </div>
+  <div class="images--grid">
+    <div
+      class="images--grid-item"
+      *ngFor="let image of data.images; let i = index"
+    >
+      <img [src]="image.url" alt="{{ image.alt }}" />
+    </div>
+  </div>
+</div>

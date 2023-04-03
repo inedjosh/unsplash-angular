@@ -1,0 +1,73 @@
+<header class="header">
+  <div class="header--logo">
+    <img src="./../../../../assets/unsplash.png" alt="logo" />
+  </div>
+
+  <div class="header--form">
+    <div class="header--form-positionLeft">
+      <svg
+        class="header--form-svg"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+        aria-hidden="true"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+        ></path>
+      </svg>
+    </div>
+    <input type="text" matInput placeholder="Search high resolution images" />
+    <div class="header--form-positionRight">
+      <svg
+        class="header--form-svg"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+        aria-hidden="true"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M7.5 3.75H6A2.25 2.25 0 003.75 6v1.5M16.5 3.75H18A2.25 2.25 0 0120.25 6v1.5m0 9V18A2.25 2.25 0 0118 20.25h-1.5m-9 0H6A2.25 2.25 0 013.75 18v-1.5M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+        ></path>
+      </svg>
+    </div>
+  </div>
+
+  <div class="header--nav">
+    <mat-nav-list class="header--nav-div">
+      <a
+        *ngFor="let link of links"
+        href="{{ link.link }}"
+        style="cursor: pointer"
+        >{{ link.text }}</a
+      >
+    </mat-nav-list>
+
+    <div class="header--nav-divider"></div>
+    <ul class="header--nav-div">
+      <li
+        class="header--nav-flex"
+        *ngIf="auth.userData as user; else loggedOut"
+      >
+        <a style="cursor: pointer" (click)="logout()"> Logout</a>
+        <p>
+          Welcome<a [routerLink]="['/profile']"> {{ user.displayName }} </a>
+        </p>
+      </li>
+
+      <ng-template #loggedOut>
+        <a style="cursor: pointer" [routerLink]="['/login']">
+          Login</a
+        ></ng-template
+      >
+    </ul>
+  </div>
+</header>

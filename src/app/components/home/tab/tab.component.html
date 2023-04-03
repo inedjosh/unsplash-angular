@@ -1,0 +1,7 @@
+<div class="header--tab">
+  <mat-tab-group>
+    <mat-tab *ngFor="let tab of tabs" label="{{ tab.name }}">
+      <app-image-div [data]="tab"></app-image-div
+    ></mat-tab>
+  </mat-tab-group>
+</div>
